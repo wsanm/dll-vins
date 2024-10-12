@@ -1,6 +1,7 @@
-# Dynamic-VINS
+# Dynamic-VINS与UV-SLAM相结合
 
 # RGB-D Inertial Odometry for a Resource-restricted Robot in Dynamic Environments
+# UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping
 
 ## 1. Introduction
 **Dynamic-VINS** is a real-time RGB-D Inertial Odometry system for resource-restricted robots in dynamic environments.
